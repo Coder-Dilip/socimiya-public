@@ -23,7 +23,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # hidden files
-./src/Components/Message.jsx
+Message
 Upload.jsx
 ProductUpload.jsx
 ProfileUpdate.jsx
