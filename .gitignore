@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# hidden files
+Message.jsx
+Upload.jsx
+ProductUpload.jsx
+ProfileUpdate.jsx
+MessageCard.jsx
+MobileMessage.jsx
+
