@@ -1,0 +1,19 @@
+@media only screen and (min-width: 630px) {
+    .posts_cards{
+      position: relative;
+      top: 20px;
+    }
+  }
+    @media only screen and (max-width: 630px) {
+    .posts_cards{
+  position: relative;
+  top: -100px;
+    }
+
+    .select_files_container{
+      position: relative;
+      top: -150px;
+    }
+  }
+
+ 
